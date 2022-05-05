@@ -78,10 +78,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sa24449&theme=tokyonight&show_icons=true" alt="sa24449" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SagarAnand03&show_icons=true&locale=en&theme=codeSTACKr" alt="SagarAnand03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa24449&theme=tokyonight&show_icons=true" alt="sa24449" /></p>
- 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sa24449&theme=tokyonight&show_icons=true" alt="sa24449" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarAnand03&theme=dark&hide_border=true" alt="SagarAnand03" /></p>
+
+[![Sagar Anand's  github activity graph](https://activity-graph.herokuapp.com/graph?username=SagarAnand03&bg_color=11143b&color=96bf4a&line=4c9d9e&point=57f471&area=true&hide_border=true)](https://github.com/SagarAnand03/github-readme-activity-graph)
+
+## Snake eating my contribution graph
+![snake gif](https://github.com/SagarAnand03/SagarAnand03/blob/output/github-contribution-grid-snake.svg)
 
 
