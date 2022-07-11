@@ -75,7 +75,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" height="40"/> 
 </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Coden" width="40" height="40"/> </a> </p>
-
+---
+![SagarAnand/gitartwork](gitartwork.svg)
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=SagarAnand03&show_icons=true&locale=en&theme=codeSTACKr" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarAnand03&theme=dark&hide_border=true" />
 
